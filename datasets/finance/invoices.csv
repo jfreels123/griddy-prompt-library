@@ -1,0 +1,6 @@
+Invoice,Customer,Invoice Date,Due Date,Amount,Status
+INV-101,Northwind,2026-02-10,2026-03-12,4200,Open
+INV-102,Bluebird,2026-02-18,2026-03-20,6800,Open
+INV-103,Harbor Health,2026-03-01,2026-03-31,2400,Open
+INV-104,Acorn Labs,2026-01-15,2026-02-14,7900,Open
+INV-105,Elm Works,2026-03-08,2026-04-07,3100,Paid
